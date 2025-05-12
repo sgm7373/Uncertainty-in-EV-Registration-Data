@@ -7,7 +7,7 @@ This project explores and visualizes uncertainty in U.S. electric vehicle (EV) r
 ## 📁 Files Included
 
 - `Uncertainty in EV Registration Data.pdf`: Final project report
-- 
+
 ---
 
 ## 🔍 Project Objectives
