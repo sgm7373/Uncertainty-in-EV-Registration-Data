@@ -6,7 +6,7 @@ This project explores and visualizes uncertainty in U.S. electric vehicle (EV) r
 
 ## 📁 Files Included
 
-[Uncertainty Report](./report/Uncertainty%20in%20EV%20Registration%20Data.pdf)
+[Uncertainty Report](Uncertainty%20in%20EV%20Registration%20Data.pdf)
 
 ---
 
